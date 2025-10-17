@@ -1,56 +1,182 @@
 [
-  {
-    "id": 31,
-    "name": "Brown Brim",
-    "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
-    "price": 25
-  },
-  {
-    "id": 22,
-    "name": "Blue Beanie",
-    "imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
-    "price": 18
-  },
-  {
-    "id": 332,
-    "name": "Brown Cowboy",
-    "imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
-    "price": 35
-  },
-  {
-    "id": 432,
-    "name": "Grey Brim",
-    "imageUrl": "https://i.ibb.co/RjBLWxB/grey-brim.png",
-    "price": 25
-  },
-  {
-    "id": 512,
-    "name": "Green Beanie",
-    "imageUrl": "https://i.ibb.co/YTjW3vF/green-beanie.png",
-    "price": 18
-  },
-  {
-    "id": 631,
-    "name": "Palm Tree Cap",
-    "imageUrl": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
-    "price": 14
-  },
-  {
-    "id": 731,
-    "name": "Red Beanie",
-    "imageUrl": "https://i.ibb.co/bLB646Z/red-beanie.png",
-    "price": 18
-  },
-  {
-    "id": 1328,
-    "name": "Wolf Cap",
-    "imageUrl": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
-    "price": 14
-  },
-  {
-    "id": 1321,
-    "name": "Blue Snapback",
-    "imageUrl": "https://i.ibb.co/X2VJP2W/blue-snapback.png",
-    "price": 16
-  }
+{
+"id": 1,
+"name": "Seneca Cowboy Hat",
+"imageUrl": "https://stetson.com/cdn/shop/files/SBSNCA-4134-98_alt1_2734bcdb-e895-49ac-b46b-98a57ef85af4_large.jpg?v=1708710949",
+"price": 34
+},
+{
+"id": 2,
+"name": "Arena Cowboy Hat",
+"imageUrl": "https://resistol.com/cdn/shop/files/09302022-resistol-cdouglas-5918_1800x1800.jpg?v=1715357925",
+"price": 23
+},
+{
+"id": 3,
+"name": "Cattleman Brown Hat",
+"imageUrl": "http://americanhatmakers.com/cdn/shop/files/Cattleman-Brown-Felt-Cowboy-Hat-Mens-FW23-American-Hat-Makers_1.jpg?v=1725288010",
+"price": 55
+},
+{
+"id": 4,
+"name": "Leather Cowboy Hat",
+"imageUrl": "https://m.media-amazon.com/images/I/71NHOPGEk1L.AC_UY350.jpg",
+"price": 51
+},
+{
+"id": 5,
+"name": "El Presidente Hat",
+"imageUrl": "https://stetson.com/cdn/shop/files/SFPRES-4840-61_alt1_05abaf3d-454d-4cf0-befb-1d65bc73b5d1_large.jpg?v=1692721099",
+"price": 48
+},
+{
+"id": 6,
+"name": "Oversized Graphic T-Shirt",
+"imageUrl": "https://m.media-amazon.com/images/I/71QMsrys-lL.UY1000.jpg",
+"price": 37
+},
+{
+"id": 7,
+"name": "Tech Dragon T-Shirt",
+"imageUrl": "https://storyspark.com/cdn/shop/files/volt-dragon-heavyweight-mens-graphic-tshirt-1.jpg?v=1720032570&width=2000",
+"price": 33
+},
+{
+"id": 8,
+"name": "Reflections Lake Tee",
+"imageUrl": "https://solidthreads.com/cdn/shop/products/mens_reflections_vintage_inspired_triblend_gold_tee_shirt_with_cool_colorful_lake_graphic_1600x.jpg?v=1587583691",
+"price": 89
+},
+{
+"id": 9,
+"name": "Cleveland Graphic T-Shirt",
+"imageUrl": "http://gvartwork.com/cdn/shop/files/ClevelandArtworkTshirtBack.jpg?v=1684517332",
+"price": 31
+},
+{
+"id": 10,
+"name": "Tropic Night Tee",
+"imageUrl": "https://www.intotheam.com/cdn/shop/files/TropicNight_Mens_Tee.jpg?v=1715624525&width=1001",
+"price": 95
+},
+{
+"id": 11,
+"name": "Jen Wide Leg Jeans",
+"imageUrl": "https://www.meshki.us/cdn/shop/files/241008_MESHKI_Tranquility4_5_16_885.jpg?v=1758107387&width=1946",
+"price": 74
+},
+{
+"id": 12,
+"name": "Slim Fit Stretch Jeans",
+"imageUrl": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/206781s.jpg?im=Resize,width=750",
+"price": 24
+},
+{
+"id": 13,
+"name": "Straight Fit Denim Jeans",
+"imageUrl": "https://www.gerberchildrenswear.com/cdn/shop/files/Gerber_1-pack-baby-neutral-blue-straight-fit-jeans-evyr-d_image_1.jpg?v=1721762942",
+"price": 23
+},
+{
+"id": 14,
+"name": "High Rise Wide Leg Jeans",
+"imageUrl": "https://shopduer.com/cdn/shop/products/WFMS5321-Midweight-Denim-HR-Wide-Leg-Vintage-Blue-Front-990312.jpg?v=1744049191&width=1143",
+"price": 31
+},
+{
+"id": 15,
+"name": "Perfect Regular Jeans",
+"imageUrl": "https://www.perfectjeans.com/cdn/shop/files/15972_PJ_ECOM_be2fe514-2d05-4c19-9b34-a466e3bae6f5_1024x1024.jpg?v=1716283609",
+"price": 47
+},
+{
+"id": 16,
+"name": "Floral Flare Sleeve Dress",
+"imageUrl": "https://i5.walmartimages.com/asr/572c7130-580b-45f5-ac0c-bb8e7b3b6f98.6e5b7bd7bafc515d3891e3bd3348dff2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+"price": 49
+},
+{
+"id": 17,
+"name": "Boho Summer Mini Dress",
+"imageUrl": "https://d3v4qpjzw4kz8j.cloudfront.net/optimise/019A4042.webp?height=880&quality=75&signature=662186888594c62dd3947a72b87a400a167816861229f6a25c1da158e5f711b9&src0=uploads%2Fproduct_image%2Fphoto%2F605796cd18b7b4344ee8f48c%2F019A4042.jpg&version=20221026&watermark=false&width=550",
+"price": 84
+},
+{
+"id": 18,
+"name": "Square-Neck Print Dress",
+"imageUrl": "https://i5.walmartimages.com/seo/Summer-Savings-Ashirexll-Summer-Dress-Fashion-Women-Summer-Casual-Square-Neck-Print-Short-Sleeve-Loose-Dress-Long-Skirts-for-Women-Yellow-M_c8c1d780-72f8-4362-b0b2-11fec7871b93.bf084c04bc13c35b6bc2c4c42cdea2e7.jpeg",
+"price": 97
+},
+{
+"id": 19,
+"name": "Floral Maxi Dress",
+"imageUrl": "https://www.graceandlace.com/cdn/shop/files/FloralSummerMaxiDress-1.jpg?v=1715707860",
+"price": 23
+},
+{
+"id": 20,
+"name": "Shirred Strap Dress",
+"imageUrl": "https://img.kwcdn.com/product/fancy/db633b97-3308-408f-a3cb-b7462d63838f.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+"price": 91
+},
+{
+"id": 21,
+"name": "Women's Leather Jacket",
+"imageUrl": "https://s7.landsend.com/is/image/LandsEnd/546965_LEPP_LS_BLE?$xl$&wid=1003&hei=1003",
+"price": 45
+},
+{
+"id": 22,
+"name": "Black Leather Jacket",
+"imageUrl": "https://img.guess.com/image/upload/f_auto,q_auto:best,dpr_2,b_auto,c_pad,w_400/v1/NA/Style/ECOMM/M2YL12L0QN0-JBLK.jpg",
+"price": 89
+},
+{
+"id": 23,
+"name": "Cropped Motorcycle Jacket",
+"imageUrl": "https://m.media-amazon.com/images/I/71KL90-J+WL.UY1000.jpg",
+"price": 73
+},
+{
+"id": 24,
+"name": "Trucker Distressed Jacket",
+"imageUrl": "https://www.arcanefox.com/cdn/shop/files/custom-mens-trucker-distressed-leather-jacket-in-dark-brown-arcane-fox.png?v=1704898302",
+"price": 48
+},
+{
+"id": 25,
+"name": "Brown Zipper Jacket",
+"imageUrl": "https://www.alencooper.com/wp-content/uploads/2024/10/Brown-Leather-Jacket-with-Zippers-Stylizing-Men-6.jpg.webp",
+"price": 77
+},
+{
+"id": 26,
+"name": "Running Shoes Collection",
+"imageUrl": "https://d1nymbkeomeoqg.cloudfront.net/photos/28/73/408849_7358_XL.jpg",
+"price": 95
+},
+{
+"id": 27,
+"name": "Top Running Shoes",
+"imageUrl": "https://hips.hearstapps.com/hmg-prod/images/running-shoes-005-68419d3f4376f.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:",
+"price": 55
+},
+{
+"id": 28,
+"name": "Puma Foreverrun Nitro",
+"imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1741716872-puma-foreverrun-nitro-2-67d07d7915584.jpg?crop=1xw:1xh;center,top&resize=980:",
+"price": 20
+},
+{
+"id": 29,
+"name": "Daily Running Shoes",
+"imageUrl": "https://cdn.runrepeat.com/storage/gallery/buying_guide_primary/269/269-best-daily-running-shoes-15820218-main.jpg",
+"price": 40
+},
+{
+"id": 30,
+"name": "Altra Running Sneakers",
+"imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/11/runningshoes-2048px-09522.jpg?auto=webp&quality=75&width=1024",
+"price": 74
+}
 ]
